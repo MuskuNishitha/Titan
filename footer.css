@@ -1,0 +1,233 @@
+*{
+
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+    }
+    #gift{
+         height:220px;
+         width:250px;
+         border:1px solid  white;
+         background-color: white;
+         color:black;
+         top:70px;
+         z-index:3;
+         position:absolute;
+         margin-left:1040px;
+         margin-top:80px;
+         line-height:25px;
+         padding-top:10px;
+         padding-left: 40px;
+         text-transform:uppercase;
+      display: none;
+      box-shadow:0px 0px 2px black;
+    }
+     #moreeeee:hover{
+        font-weight:600;
+    }
+     #kareya{
+        border:1px solid  white;
+        background-color: white;
+        color:black;
+        top:160px;
+        height:350px;
+        padding-top:30px;
+        width:100%;
+        display: flex;
+        gap:50px;
+        line-height:35px;
+        z-index:3;
+ padding-left:50px;
+        position:absolute; 
+        /* box-shadow:0px 0px 2px black; */
+   
+     }
+   #karr{
+      display: none;
+   }
+   #uday:hover{
+      font-weight: bold;
+   }
+   #divtagnk{
+      top:260px;
+      position: absolute;
+      z-index:3;
+      width:1000px;
+      height:400px;
+      display: flex;
+      margin-left:200px;
+     
+   }
+   #singing{
+      width:490px;
+      height:400px;
+      background-color:white;
+      padding-top:40px;
+      /* line-height:25px; */
+      padding-left:30px;
+   }
+   #mobnum{
+      display: flex;
+      gap:30px;
+   }
+   #intipy{
+      width:340px;
+      height:40px;
+   }
+   #bttttn{
+      margin-top:20px;
+      height:40px;
+      width:70px;
+
+   }
+   #code{
+      text-decoration: underline;
+   }
+   #agrreee{
+      font-size:17px;
+   }
+   #connn{
+      border:1px solid black;
+      background-color: black;
+      color:white;
+      height:50px;
+      width:440px;
+   }
+   #ninna{
+      display: none;
+   }
+  #viewallaa{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:250px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 35px;
+   padding-left:140px;
+   gap:100px;
+  }
+  #naniii{
+   width:180px;
+   height:40px;
+   border: 1px solid rgb(180, 171, 171);
+   background-color:rgb(169, 166, 166) ;
+  }
+  #secccccinn{
+   display: none;
+  }
+  #smartseell{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:320px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 38px;
+padding-top:15px;
+   padding-left:120px;
+   gap:100px;
+  }
+  #smalalala{
+   display: none;
+  }
+  #mlmlml:hover{
+ font-weight: 600;
+
+  }
+  #premiummmt{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:540px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 30px;
+padding-top:15px;
+   padding-left:10px;
+   gap:20px;
+   font-size:15px;
+  }
+  #premiunsec{
+    display: none;
+  }
+  #prewar:hover{
+  font-weight: 600;
+  }
+  #accessaryFF{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:340px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 40px;
+padding-top:15px;
+   padding-left:40px;
+   gap:60px;
+   font-size:15px;
+  }
+  #accessarysce{
+   display: none;
+  }
+  #container:hover{
+   font-weight: 600;
+  }
+  #colocksss{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:310px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 38px;
+padding-top:15px;
+   padding-left:60px;
+   gap:90px;
+  }
+  #clocksec{
+   display: none;
+  }
+  #cololok:hover{
+font-weight: 600;
+  }
+  #overbrand{
+   top:160px;
+   position: absolute;
+   z-index:3;
+   width:100%;
+   height:410px;
+   border:1px solid white;
+   background-color:white;
+   color:black;
+   display: flex;
+   line-height: 38px;
+padding-top:40px;
+   padding-left:60px;
+   gap:50px;
+  }
+  #secoverbrand{
+   display: none;
+  }
+  #ourbrands:hover{
+   font-weight: 600;
+  }
+  #watchessss:hover{
+
+   font-weight: 600;
+  }

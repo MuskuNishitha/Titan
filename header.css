@@ -1,0 +1,105 @@
+@import url(./main.css);
+@import url(./footer.css);
+
+*{
+
+padding:0%;
+margin:0%;
+box-sizing: border-box;
+}
+#maindiv{
+    position:fixed;
+    top:0px;
+    display: flex;
+
+}
+#divtag{
+    display: flex;
+    padding:15px;
+ font-size:16px;
+    border:1px solid;
+    width:700px;
+    height:50px;
+    margin-left:10px;
+    margin-top:10px;
+    
+    
+}
+
+#maiintag{
+    display: flex;
+  margin-left:50px;
+  gap:30px;
+  font-size:16px;
+}
+#img{
+    margin-top:-40px;
+}
+#mainidvtag{
+    margin: 110px;
+    margin-left:180px;
+    position: fixed;
+    
+}
+#ol{
+    display: flex;
+    list-style: none;
+    gap:25px;
+}
+#sale{
+    color:red;
+
+}
+#ol>li:hover{
+    color:black;
+}
+
+.hover:hover{
+    color:black;
+}
+#divbadcontai{
+    display: flex;
+    top:160px;
+ position: fixed;
+ margin-left: 70px;
+ gap:70px;
+ font-size:14px;
+
+}
+#divbadcontai img{
+    padding-top:0px;
+    margin-top:5;
+}
+#divbadcontai a{
+ margin-top:-10px;   
+}
+#down{
+    margin-top:-10px;
+}
+#divvvv{
+    top:200px;
+    position: relative;
+    font-size:16px;
+    padding-left:20px;
+
+}
+#watch{
+    color:rgb(14, 13, 13);
+    font-weight: bold;
+}
+#imagedivtag{
+    top:220px;
+    position: relative;
+}
+
+#divbadcontai button a img{
+ text-align: center;
+ align-items: center;
+ padding-bottom:10px;
+ 
+}
+#divbadcontai button{
+    color:black;
+    background-color: white;
+    border:1px solid white;
+}
